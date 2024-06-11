@@ -13,6 +13,11 @@
 - <b>Hands-on experience with Informatica power center and power exchange in integrating with different applications and relational databases.</b>
 - <b>Manage all CM tools (JIRA, Confluence, Maven, Jenkins, Git, GitHub, Visual Studio) and their usage / process ensuring traceability, repeatability, quality, and support.</b>
 
+<h2>EDUCATION</h2>
+
+- <b>Master’s in computer science, California University of Management and Sciences, Anaheim, California –2015</b>
+- <b>Bachelor of Engineering in Computer Science, Jawaharlal Nehru Technological University, Hyderabad, India – 2008</b>
+
 <h2>PROJECT-1</h2>
 
 - <b>Worked with Spark and Scala mainly in framework exploration for transition from Hadoop/MapReduce to Spark.</b>
