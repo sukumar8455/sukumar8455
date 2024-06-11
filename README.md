@@ -13,6 +13,23 @@
 - <b>Hands-on experience with Informatica power center and power exchange in integrating with different applications and relational databases.</b>
 - <b>Manage all CM tools (JIRA, Confluence, Maven, Jenkins, Git, GitHub, Visual Studio) and their usage / process ensuring traceability, repeatability, quality, and support.</b>
 
+<h2>PROJECT-1</h2>
+
+- <b>Worked with Spark and Scala mainly in framework exploration for transition from Hadoop/MapReduce to Spark.</b>
+- <b>Utilized AWS services, including EC2 and S3, to enhance system scalability and availability. </b>
+
+- <b>Deploying and configuring AWS services and resources, including EC2 instances, RDS databases, S3 buckets, Lambda functions, and more, based on project needs.</b>
+
+- <b>Extensive experience in implementation of transformations, Stored Procedures, and execution of test plans for loading the data successfully into the targets.</b>
+  
+  
+
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
