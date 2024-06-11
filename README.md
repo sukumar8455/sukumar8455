@@ -24,10 +24,17 @@
   
   
 - [My Data EXCEL Project](https://github.com/sukumar8455/Project_1/tree/main)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+<h2>PROJECT-2</h2>
+
+- <b>Developed models using ELT Data Build Tool (DBT) to transform the data that is already loaded in Snowflake warehouses</b>
+- <b>Responsible for building the datalike in Amazon AWS, ingesting structured shipment and master data from Azure Service Bus using the AWS API Gateway, Lambda, and Kinesis Firehose into s3 buckets.</b>
+
+- <b>Deploying and configuring AWS services and resources, including EC2 instances, RDS databases, S3 buckets, Lambda functions, and more, based on project needs.</b>
+
+- <b>Extensive experience in implementation of transformations, Stored Procedures, and execution of test plans for loading the data successfully into the targets.</b>
+    
+- [CLAIMS Data EXCEL Project](https://github.com/sukumar8455/project_2)
 
 <h2> 🤳 Connect with me:</h2>
 
