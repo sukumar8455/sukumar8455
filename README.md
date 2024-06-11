@@ -41,6 +41,9 @@
     
 - [CLAIMS Data EXCEL Project](https://github.com/sukumar8455/project_2)
 
+- <kbd><img width="397" alt="image" src="https://user-images.githubusercontent.com/81607668/135250389-cece0d81-19fa-4021-beb1-2bd4fb3bc09c.png"></kbd>
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][[youtube](https://www.youtube.com/watch?v=0FH8JSTl71I)]
