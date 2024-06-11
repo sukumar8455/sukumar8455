@@ -41,7 +41,7 @@
     
 - [CLAIMS Data EXCEL Project](https://github.com/sukumar8455/project_2)
 
-- <kbd><img width="397" alt="image" src="https://user-images.githubusercontent.com/81607668/135250389-cece0d81-19fa-4021-beb1-2bd4fb3bc09c.png"></kbd>
+- <kbd><img width="397" alt="image" src="https://user-images.githubusercontent.com/81607668/135250389-cece0d81-19fa-4021-beb1-2bd4fb3bc09c.png](https://github.com/sukumar8455/project_2/blob/main/Excel_png.png"></kbd>
 
 
 <h2> 🤳 Connect with me:</h2>
